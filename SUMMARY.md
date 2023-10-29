@@ -79,3 +79,4 @@
 ## Cars
 
 * [🏎 Car Prices](cars/car-prices.md)
+* [🚓 Car Packs](cars/car-packs.md)

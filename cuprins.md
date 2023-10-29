@@ -13,6 +13,7 @@ description: Aici puteti vedea ce contine acest wiki !
 | [Neon Tickets](tickets/neon-tickets.md) | Pentru a folosii neon tickets tastati comanda /neontickets                             |
 | [Crates](crates.md)                     | Poti folosii comanda /opencrate pentru a le deschide !                                 |
 | [Vouchers](vouchers.md)                 | Pentru a folosii voucherele tasteaza comanda /vouchers                                 |
+| [Car Prices](cars/car-prices.md)        | Aici poti vedea preturile masinilor !                                                  |
 
 Panel : [https://panel.b-hood.ro/](https://panel.b-hood.ro/)
 
