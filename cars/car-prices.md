@@ -2,7 +2,7 @@
 description: CARS + PRICE
 ---
 
-# 🚗 Dealership Cars
+# 🏎 Car Prices
 
 * **BIKE - PRICE : **<mark style="color:green;">**$12.000.000**</mark>
 * **MOUNTAIN BIKE - PRICE : **<mark style="color:green;">**$25.000.000**</mark>

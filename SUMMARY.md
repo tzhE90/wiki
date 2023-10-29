@@ -78,4 +78,4 @@
 
 ## Cars
 
-* [🚗 Dealership Cars](cars/dealership-cars.md)
+* [🏎 Car Prices](cars/car-prices.md)
